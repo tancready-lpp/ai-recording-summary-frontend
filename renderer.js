@@ -4,7 +4,7 @@ const config = window.configAPI.loadConfig();
 const BACKEND_URL = config.backend_url;
 
 if (!BACKEND_URL) {
-  alert("Backend URL not configured. Add it to ~/AIRecordingSummary/config.json");
+  alert("Backend URL not configured.");
 }
 
 
