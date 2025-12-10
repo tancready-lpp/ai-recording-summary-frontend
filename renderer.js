@@ -164,4 +164,6 @@ recordBtn.addEventListener("click", async () => {
   }
 });
 
+console.log("Remote renderer.js loaded successfully!");
+
 window.appLoaded = true;
