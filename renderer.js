@@ -1,4 +1,4 @@
-const BACKEND_URL = "https://meeting-automation-backend-nmwt.onrender.com/workflow";
+//const BACKEND_URL = "https://meeting-automation-backend-nmwt.onrender.com/workflow";
 
 const config = window.configAPI.loadConfig();
 const BACKEND_URL = config.backend_url;
