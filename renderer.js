@@ -163,3 +163,5 @@ recordBtn.addEventListener("click", async () => {
     mediaRecorder.stop();
   }
 });
+
+window.appLoaded = true;
